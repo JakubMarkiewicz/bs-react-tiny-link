@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "node_modules/bs-platform/ocaml/compilerlibs/**/*": true,
+        "node_modules/bs-platform/ocaml/compilerlibs/**/.gitignore": false
+    }
+}
